@@ -102,7 +102,7 @@ class TodoWidget extends StatelessWidget {
         leading:  const Icon(Icons.check_circle,color:Colors.pink,),
         title: const Text("plan the trip to Finland",
         style: TextStyle(color: Colors.deepPurple),),
-        subtitle: const Text("The family's trip to Finland  summer"),
+        subtitle: const Text("The family's trip to Ghana  summer"),
         trailing: Row(
           
           mainAxisSize: MainAxisSize.min,
